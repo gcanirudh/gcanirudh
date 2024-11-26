@@ -93,8 +93,9 @@ Here are some of the projects I’ve worked on:
 <p align="center">
     <h1><img src="https://media.giphy.com/media/7p0Xf3M5ZYdnyg2bry/giphy.gif" alt="Fun Facts GIF" width="40" /> Fun Facts</h1>
 </p>
-- 🏏 I’m a weekend cricket all-rounder and a basketball enthusiast.  
-- 🎥 I love watching mystery and thriller movies (solving puzzles is my jam!).  
+
+- 🏏 I’m a weekend cricket all-rounder and a basketball enthusiast.
+- 🎥 I love watching mystery and thriller movies (solving puzzles is my jam!).
 - 🎶 Music is my constant companion for focus and relaxation.
 
 ---
