@@ -90,8 +90,6 @@ Here are some of the projects I’ve worked on:
 
 ---
 
----
-
 <p align="center">
     <h1>🎯 Fun Facts</h1>
 </p>
