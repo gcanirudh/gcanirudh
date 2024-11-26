@@ -3,7 +3,7 @@
 ![Banner](https://github.com/gcanirudh/gcanirudh/blob/main/banner.gif)
 
 <p align="center">
-    <h1>🚀 About Me</h1>
+    <h1><img src="https://media.giphy.com/media/26Ff3cZ65u2uyzFc4/giphy.gif" alt="Rocket GIF" width="40" /> About Me</h1>
 </p>
 
 🎓 A Computer Science student at **VIT Chennai**, exploring **Full-Stack Web Development**, **Machine Learning**, and **Cloud Computing**.  
@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-    <h1>🛠️ Skills & Tools</h1>
+    <h1><img src="https://media.giphy.com/media/XpJlN4dp1wvRGXyXUw/giphy.gif" alt="Tools GIF" width="40" /> Skills & Tools</h1>
 </p>
 
 ### 🌐 Languages:
@@ -52,7 +52,7 @@
 ---
 
 <p align="center">
-    <h1>📈 GitHub Stats</h1>
+    <h1><img src="https://media.giphy.com/media/5iTc5m5b7w4Me8bJrg/giphy.gif" alt="GitHub Stats GIF" width="40" /> GitHub Stats</h1>
 </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gcanirudh&show_icons=true&theme=radical)  
@@ -62,7 +62,7 @@
 ---
 
 <p align="center">
-    <h1>🌟 Featured Projects</h1>
+    <h1><img src="https://media.giphy.com/media/JmYt6D4ByjQXUvQHzC/giphy.gif" alt="Projects GIF" width="40" /> Featured Projects</h1>
 </p>
 Here are some of the projects I’ve worked on:
 
@@ -73,7 +73,7 @@ Here are some of the projects I’ve worked on:
 ---
 
 <p align="center">
-  <h2>🌍 Let's Connect</h2>
+  <h2><img src="https://media.giphy.com/media/xT0xezkVJtb8hJ9c6I/giphy.gif" alt="Connect GIF" width="40" /> Let's Connect</h2>
 </p>
 
 <p align="center">
@@ -91,7 +91,7 @@ Here are some of the projects I’ve worked on:
 ---
 
 <p align="center">
-    <h1>🎯 Fun Facts</h1>
+    <h1><img src="https://media.giphy.com/media/7p0Xf3M5ZYdnyg2bry/giphy.gif" alt="Fun Facts GIF" width="40" /> Fun Facts</h1>
 </p>
 - 🏏 I’m a weekend cricket all-rounder and a basketball enthusiast.  
 - 🎥 I love watching mystery and thriller movies (solving puzzles is my jam!).  
