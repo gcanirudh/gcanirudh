@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Charansri Anirudh Gundabattula!
 
-![Profile Banner](https://via.placeholder.com/800x200.png?text=Hello+World!+I’m+Charansri)
+![Banner](https://github.com/gcanirudh/gcanirudh/blob/main/banner.gif)
 
 ## 🚀 About Me
 🎓 A Computer Science student at **VIT Chennai**, exploring **Full-Stack Web Development**, **Machine Learning**, and **Cloud Computing**.  
