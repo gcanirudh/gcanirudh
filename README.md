@@ -3,7 +3,7 @@
 ![Banner](https://github.com/gcanirudh/gcanirudh/blob/main/banner.gif)
 
 <p align="center">
-    <strong>🚀 About Me</strong>
+    <h1>🚀 About Me</h1>
 </p>
 
 🎓 A Computer Science student at **VIT Chennai**, exploring **Full-Stack Web Development**, **Machine Learning**, and **Cloud Computing**.  
@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-    <strong>🛠️ Skills & Tools</strong>
+    <h1>🛠️ Skills & Tools</h1>
 </p>
 
 ### 🌐 Languages:
@@ -52,7 +52,7 @@
 ---
 
 <p align="center">
-    <strong>📈 GitHub Stats</strong>
+    <h1>📈 GitHub Stats</h1>
 </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gcanirudh&show_icons=true&theme=radical)  
@@ -62,7 +62,7 @@
 ---
 
 <p align="center">
-    <strong>🌟 Featured Projects</strong>
+    <h1>🌟 Featured Projects</h1>
 </p>
 Here are some of the projects I’ve worked on:
 
@@ -73,7 +73,7 @@ Here are some of the projects I’ve worked on:
 ---
 
 <p align="center">
-    <strong>🌍 Let's Connect</strong>
+    <h1>🌍 Let's Connect</h1>
 </p>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charansri-anirudh-gundabattula-477b4a229/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gcanirudh)  
@@ -83,13 +83,11 @@ Here are some of the projects I’ve worked on:
 ---
 
 <p align="center">
-    <strong>🎯 Fun Facts</strong>
+    <h1>🎯 Fun Facts</h1>
 </p>
 - 🏏 I’m a weekend cricket all-rounder and a basketball enthusiast.  
 - 🎥 I love watching mystery and thriller movies (solving puzzles is my jam!).  
 - 🎶 Music is my constant companion for focus and relaxation.
-- 👾 I love watching anime, and playing open world games!
-
 
 ---
 
