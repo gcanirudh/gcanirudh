@@ -73,14 +73,22 @@ Here are some of the projects I’ve worked on:
 ---
 
 <p align="center">
-  <h1>🌍 Let's Connect</h1>
+  <h2>🌍 Let's Connect</h2>
 </p>
 
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charansri-anirudh-gundabattula-477b4a229/)  
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gcanirudh)  
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gcanirudh/)  
+  <a href="https://www.linkedin.com/in/charansri-anirudh-gundabattula-477b4a229/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/gcanirudh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://www.instagram.com/gcanirudh/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
 </p>
+
+---
 
 ---
 
