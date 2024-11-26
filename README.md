@@ -2,7 +2,10 @@
 
 ![Banner](https://github.com/gcanirudh/gcanirudh/blob/main/banner.gif)
 
-## 🚀 About Me
+<p align="center">
+    <strong>🚀 About Me</strong>
+</p>
+
 🎓 A Computer Science student at **VIT Chennai**, exploring **Full-Stack Web Development**, **Machine Learning**, and **Cloud Computing**.  
 💻 Passionate about solving real-world problems through technology and constantly learning new tools and frameworks.  
 🌱 Currently diving deep into **Python**, **Cloud Platforms**, and **Web Development**.  
@@ -10,7 +13,9 @@
 
 ---
 
-## 🛠️ Skills & Tools
+<p align="center">
+    <strong>🛠️ Skills & Tools</strong>
+</p>
 
 ### 🌐 Languages:
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -39,17 +44,26 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2345B8A5.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-%23FF7100.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-%231C8B4C.svg?style=for-the-badge&logo=kaggle&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+<p align="center">
+    <strong>📈 GitHub Stats</strong>
+</p>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gcanirudh&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gcanirudh&layout=compact&theme=radical)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gcanirudh&theme=radical)
 
 ---
 
-## 🌟 Featured Projects
+<p align="center">
+    <strong>🌟 Featured Projects</strong>
+</p>
 Here are some of the projects I’ve worked on:
 
 1. 🛒 [**Inventory Management System**](https://github.com/your-inventory-system-repo): A web-based system to manage stock levels efficiently.
@@ -58,18 +72,23 @@ Here are some of the projects I’ve worked on:
 
 ---
 
-## 🌍 Let's Connect
+<p align="center">
+    <strong>🌍 Let's Connect</strong>
+</p>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charansri-anirudh-gundabattula-477b4a229/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gcanirudh)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gcanirudh/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gcanirudh/)  
+[![Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/gcanirudh)
 
 ---
 
-## 🎯 Fun Facts
+<p align="center">
+    <strong>🎯 Fun Facts</strong>
+</p>
 - 🏏 I’m a weekend cricket all-rounder and a basketball enthusiast.  
 - 🎥 I love watching mystery and thriller movies (solving puzzles is my jam!).  
 - 🎶 Music is my constant companion for focus and relaxation.
-- 👾 I Love playing open world video games!
+- 👾 I love watching anime, and playing open world games!
 
 
 ---
